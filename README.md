@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Pravalika Rodda!  
 
-<!--
-**Pravalika-hub-spec/Pravalika-hub-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Data Scientist** | 📊 **Machine Learning Enthusiast** | 🐍 **Python Developer**  
 
-Here are some ideas to get you started:
+🔹 **Key Projects:**  
+- 📝 Resume Classification System  
+- 📚 Book Recommendation Engine  
+- 🌍 Global Development Clustering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔗 **Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/pravalika-rodda-764583273)  
+- [GitHub](https://github.com/Pravalika-hub-spec)  
+
 -->
